@@ -30,4 +30,4 @@ public class Vehicle {
 	public void setMotor(String motor) {
 		this.motor = motor;
 	}
-}
+} 

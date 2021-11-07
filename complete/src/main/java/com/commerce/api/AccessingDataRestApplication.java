@@ -1,4 +1,4 @@
-package com.example.accessingdatarest;
+package com.commerce.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

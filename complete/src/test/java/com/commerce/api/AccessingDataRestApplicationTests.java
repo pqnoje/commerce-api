@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.accessingdatarest;
+package com.commerce.api;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -38,7 +38,7 @@ public class AccessingDataRestApplicationTests {
 	private MockMvc mockMvc;
 
 	@Autowired
-	private PersonRepository personRepository;
+	private ClientRepository personRepository;
 
 	@BeforeEach
 	public void deleteAllBeforeTests() throws Exception {
